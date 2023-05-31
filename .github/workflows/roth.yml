@@ -1,0 +1,6 @@
+jobs:
+  rothman-job:
+    steps:
+      run: ./.github/scripts/if.sh
+      shell: bash
+
